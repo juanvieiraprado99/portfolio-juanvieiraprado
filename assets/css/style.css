@@ -151,6 +151,14 @@ i {
   margin: 0 18%;
 }
 
+.about span {
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 400;
+    color: #828282;
+    margin: 0 18%;
+  }
+
 /*	CONTACT STYLES	*/
 .contacts {
   padding: 90px 0;
